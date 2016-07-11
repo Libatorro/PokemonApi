@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PokemonApi</string>
+    <string name="title_activity_pre_view_pokemons">PreViewPokemons</string>
+    <string name="action_settings">Losowa Kolejnosc</string>
+</resources>
